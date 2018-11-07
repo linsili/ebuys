@@ -1,0 +1,23 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "cn.org.ebuys.entity.Author",
+      "name": "author",
+      "type": "cn.org.ebuys.entity.Author"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "cn.org.ebuys.entity.Author",
+      "defaultValue": 0,
+      "name": "author.age",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "cn.org.ebuys.entity.Author",
+      "name": "author.name",
+      "type": "java.lang.String"
+    }
+  ]
+}
