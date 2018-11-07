@@ -7,7 +7,6 @@ import org.springframework.stereotype.Component;
 @Component
 @ConfigurationProperties(prefix = "author")
 public class Author {
-
     private String name;
     private int age;
 
